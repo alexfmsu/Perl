@@ -1,0 +1,3 @@
+{"price": 1, "not_price": 2, "not_price_too": 3, "stuff": 11}
+{"price": 15, "not_price": 2, "not_price_too": 3, "stuff": 25}
+{"not_price": 6, "price": 14, "not_price_too": 3, "stuff": 25}
