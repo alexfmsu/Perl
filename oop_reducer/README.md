@@ -1,4 +1,4 @@
-Домашнее задание OOP Reducer
+OOP Reducer
 ============================
 
 Требуется написать классы для проведения над логами операции [схлопывания](https://en.wikipedia.org/wiki/Fold_(higher-order_function)) (reduce).
